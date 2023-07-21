@@ -1,6 +1,6 @@
 # PyNetHealthWatch, a headless Network Speed and Latency Tester
 
-This is a tool I created back when I was working in the middle of bumb-f*** and was relying on Starlink and TMobile-5G internet to keep me connected. I created this tool to test latency and speed and used it to automatically trigger failover to the fastest available internet connection. I don't know if this even works still, it's Circa August-2022, and haven't had a need for it Since January, but figured someone might find it useful.
+This is a tool I created back when I was living in the middle of nowhere and was relying on Starlink and TMobile-5G internet to keep me connected. I created this tool to test latency and speed and used it to automatically trigger failover to the fastest available internet connection. I don't know if this even works still, it's Circa August-2022, and haven't had a need for it Since January, but figured someone might find it useful.
 
 # Usage:
 ```bash
